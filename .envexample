@@ -1,0 +1,10 @@
+APP_NAME= Mgahed
+APP_URL= http://localhost:3000
+
+MONGODB_URI= your_mongodb_url
+
+EMAIL= your_email
+PASSWORD= your_password
+
+STRIPE_PUBLIC_KEY= stripe_public_key
+STRIPE_SECRET_KEY= stripe_secret_key
